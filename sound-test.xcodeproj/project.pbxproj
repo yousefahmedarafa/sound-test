@@ -12,6 +12,7 @@
 		E26E9BAB2046FEAC00EF9DC9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E26E9BA92046FEAC00EF9DC9 /* Main.storyboard */; };
 		E26E9BAD2046FEAC00EF9DC9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E26E9BAC2046FEAC00EF9DC9 /* Assets.xcassets */; };
 		E26E9BB02046FEAC00EF9DC9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E26E9BAE2046FEAC00EF9DC9 /* LaunchScreen.storyboard */; };
+		E26E9BB82047009100EF9DC9 /* Dog-growling-short.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E26E9BB72047009100EF9DC9 /* Dog-growling-short.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		E26E9BAC2046FEAC00EF9DC9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E26E9BAF2046FEAC00EF9DC9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E26E9BB12046FEAC00EF9DC9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E26E9BB72047009100EF9DC9 /* Dog-growling-short.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Dog-growling-short.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		E26E9BA42046FEAC00EF9DC9 /* sound-test */ = {
 			isa = PBXGroup;
 			children = (
+				E26E9BB72047009100EF9DC9 /* Dog-growling-short.mp3 */,
 				E26E9BA52046FEAC00EF9DC9 /* AppDelegate.swift */,
 				E26E9BA72046FEAC00EF9DC9 /* ViewController.swift */,
 				E26E9BA92046FEAC00EF9DC9 /* Main.storyboard */,
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E26E9BB02046FEAC00EF9DC9 /* LaunchScreen.storyboard in Resources */,
+				E26E9BB82047009100EF9DC9 /* Dog-growling-short.mp3 in Resources */,
 				E26E9BAD2046FEAC00EF9DC9 /* Assets.xcassets in Resources */,
 				E26E9BAB2046FEAC00EF9DC9 /* Main.storyboard in Resources */,
 			);
